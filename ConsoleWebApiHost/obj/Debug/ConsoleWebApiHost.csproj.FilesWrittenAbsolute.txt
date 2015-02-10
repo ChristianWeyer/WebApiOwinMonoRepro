@@ -1,0 +1,13 @@
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/Newtonsoft.Json.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/System.Net.Http.Formatting.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/System.Web.Http.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/Owin.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/Microsoft.Owin.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/System.Web.Http.Owin.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/Microsoft.Owin.Hosting.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/Microsoft.Owin.Host.HttpListener.dll
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/ConsoleWebApiHost.exe.mdb
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/bin/Debug/ConsoleWebApiHost.exe
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/obj/Debug/ConsoleWebApiHost.exe
+/Users/christianweyer/Projects/WebApiRepro/ConsoleWebApiHost/obj/Debug/ConsoleWebApiHost.exe.mdb

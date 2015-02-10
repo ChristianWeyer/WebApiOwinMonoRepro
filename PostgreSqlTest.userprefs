@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ConsoleWebApiHost/ConsoleWebApiHost.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleWebApiHost/Program.cs">
+    <Files>
+      <File FileName="WebApiHost/Web.config" Line="1" Column="1" />
+      <File FileName="WebApiHost/Data/JsonBDataWrapper.cs" Line="1" Column="1" />
+      <File FileName="WebApiHost/Data/JsonBString.cs" Line="1" Column="1" />
+      <File FileName="ConsoleWebApiHost/ArticlesController.cs" Line="1" Column="1" />
+      <File FileName="ConsoleWebApiHost/Startup.cs" Line="6" Column="6" />
+      <File FileName="ConsoleWebApiHost/Program.cs" Line="5" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
